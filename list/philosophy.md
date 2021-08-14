@@ -1,3 +1,3 @@
 # FILOSOFIA
 
-[] Teste
+- [x] Teste

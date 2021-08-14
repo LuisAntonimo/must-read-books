@@ -2,61 +2,61 @@
 
 ## PLATÃO
 
-- ### [ ] Eutífron (01)
+- [ ] Eutífron (01)
 
-- ### [ ] Apologia de Sócrates (02)
+- [ ] Apologia de Sócrates (02)
 
-- ### [ ] Críton (03)
+- [ ] Críton (03)
 
-- ### [ ] Fédon
+- [ ] Fédon
 
-- ### [ ] Crátilo
+- [ ] Crátilo
 
-- ### [ ] Teeteto
+- [ ] Teeteto
 
-- ### [ ] Sofista
+- [ ] Sofista
 
-- ### [ ] Político
+- [ ] Político
 
-- ### [ ] Parmênides
+- [ ] Parmênides
 
-- ### [ ] Filebo
+- [ ] Filebo
 
-- ### [ ] O Banquete
+- [ ] O Banquete
 
-- ### [ ] Fedro
+- [ ] Fedro
 
-- ### [ ] Cármides
+- [ ] Cármides
 
-- ### [ ] Laques
+- [ ] Laques
 
-- ### [ ] Lísis
+- [ ] Lísis
 
-- ### [ ] Eutidemo
+- [ ] Eutidemo
 
-- ### [ ] Protágoras
+- [ ] Protágoras
 
-- ### [ ] Górgias
+- [ ] Górgias
 
-- ### [ ] Mênon (04)
+- [ ] Mênon (04)
 
-- ### [ ] Hípias maior
+- [ ] Hípias maior
 
-- ### [ ] Hípias menor
+- [ ] Hípias menor
 
-- ### [ ] Íon
+- [ ] Íon
 
-- ### [ ] Menexêno
+- [ ] Menexêno
 
-- ### [ ] A República
+- [ ] A República
 
-- ### [ ] Timeu
+- [ ] Timeu
 
-- ### [ ] Crítias
+- [ ] Crítias
 
-- ### [ ] Leis
+- [ ] Leis
 
-- ### [ ] Carta VII
+- [ ] Carta VII
 
 ### Livros de apoio
 
